@@ -1,9 +1,9 @@
 # openintrostats_slides
-A set of slides for OpenIntro Statistics, 3rd Edition - based on slides for Intro Stats with Randomization, also by OpenIntro.org.
+A set of slides for OpenIntro Statistics, 3rd Edition - based on slides for Intro Stats with Randomization, also by OpenIntro.org, and also on slides for the OpenIntro Statistics, 3rd edition book (below).
 
-Slides originally created by Mine Cetinkaya-Rundel ([mine-cetinkaya-rundel](http://github.com/mine-cetinkaya-rundel)) and available as PPTX or Google Slides format on [openintro.org](http://openintro.org). Adapted version done in R Markdown at [github.com/wesleyburr/introstat_random](https://github.com/wesleyburr/introstat_random). The OpenIntro Statistics book expands on some material from the Introductory Statistics with Randomization and Simulation, so these slides will necessarily be more involved than those from /instrostat_random. 
+Slides for Intro Stats originally created by Mine Cetinkaya-Rundel ([mine-cetinkaya-rundel](http://github.com/mine-cetinkaya-rundel)) and available as PPTX or Google Slides format on [openintro.org](http://openintro.org). Adapted version done in R Markdown at [github.com/wesleyburr/introstat_random](https://github.com/wesleyburr/introstat_random). The OpenIntro Statistics book expands on some material from the Introductory Statistics with Randomization and Simulation, so these slides will necessarily be more involved than those from /instrostat_random. 
 
-LaTeX source for slides for the eight chapters: [OpenIntroOrg/openintro-statistics-slides](https://github.com/OpenIntroOrg/openintro-statistics-slides). These slides do not follow those slides exactly, but should **definitely** be considered to be derivative. 
+LaTeX source for slides for the eight chapters of OpenIntro Statistics: [OpenIntroOrg/openintro-statistics-slides](https://github.com/OpenIntroOrg/openintro-statistics-slides). This adaptation (to Rmd plus corrections) does not follow those slides exactly, but should **definitely** be considered to be **highly** derivative. 
 
 Pull requests gratefully accepted, especially for pedagogical corrections; but typos, image corrections, and style sheet things also very welcome.
 
